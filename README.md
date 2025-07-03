@@ -1,6 +1,8 @@
-# Debian-XFCE-On-Android DEMO
+# Debian-XFCE-Mac-OS-Themes DEMO
 
 > Run full Debian XFCE Desktop + GUI apps on Android using Termux + Proot-Distro + Termux-X11.
+
+## To do
 
 ## 🖥️ Preview
 
