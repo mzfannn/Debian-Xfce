@@ -1,4 +1,4 @@
-# Debian-XFCE-On-Android
+# Debian-XFCE-On-Android DEMO
 
 > Run full Debian XFCE Desktop + GUI apps on Android using Termux + Proot-Distro + Termux-X11.
 
@@ -25,3 +25,4 @@
 pkg up -y && pkg i -y zsh wget
 wget https://github.com/yourname/yourrepo/raw/main/install-zsh.sh
 bash install-zsh.sh
+
