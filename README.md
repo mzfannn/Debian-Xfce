@@ -2,7 +2,7 @@
 
 > Run full Debian XFCE Desktop + GUI apps on Android using Termux + Proot-Distro + Termux-X11.
 
-## To do
+## requirements 
 
 ## 🖥️ Preview
 
@@ -10,10 +10,8 @@
 
 ## 📦 To Do
 
-✅ Preinstalled Debian with XFCE  
-✅ Audio, Network  
-✅ ZSH + Plugins  
-✅ Android Studio (optional)
+
+
 
 ## 📥 Download Debian Rootfs
 
@@ -21,7 +19,7 @@
 
 ## 🛠️ Installation
 
-### 1. Install zsh
+### 1. 
 
 ```bash
 demo
