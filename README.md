@@ -24,7 +24,4 @@
 ### 1. Install zsh
 
 ```bash
-pkg up -y && pkg i -y zsh wget
-wget https://github.com/yourname/yourrepo/raw/main/install-zsh.sh
-bash install-zsh.sh
-
+demo
