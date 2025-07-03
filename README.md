@@ -4,7 +4,7 @@
 
 ## 🖥️ Preview
 
-![preview](./screenshots/preview.png)
+![preview](pic.jpg)
 
 ## 📦 To Do
 
