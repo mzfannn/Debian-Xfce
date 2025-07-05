@@ -22,8 +22,8 @@
 
 
 
-##🙌 Credits
-Inspired by the Termux community, Linux droidmaster.
+## 🙌 Credits
+Inspired by the Termux community, Linux DroidMaster.
 
 
 
