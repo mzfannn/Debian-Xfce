@@ -2,15 +2,9 @@
 
 > Run full Debian XFCE Desktop + GUI apps on Android using Termux + Proot-Distro + Termux-X11.
 
-## requirements 
-
 ## 🖥️ Preview
 
 ![preview](pic.jpg)
-
-## 📦 To Do
-
-
 
 
 ## 📥 Download Debian Rootfs
@@ -19,7 +13,18 @@
 
 ## 🛠️ Installation
 
-### 1. 
+> First step
+This serves to allow Termux to access Android internal storage.
+```bash
+termux-setup-storage
+```
+### 1. Then
+> you need to install the following packages in Termux.
 
 ```bash
-demo
+pkg update
+pkg install x11-repo
+pkg install termux-x11-nightly
+pkg install pulseaudio
+pkg install proot-distro
+```
