@@ -8,10 +8,25 @@
 - Easy to install
 - Compatible with Termux-X11
 
-- 
+
+
+
+
+
 ## 🖥️ Preview
 
 ![preview](pic.jpg)
+
+
+
+
+
+
+##🙌 Credits
+Inspired by the Termux community, Linux droidmaster.
+
+
+
 
 
 ## 📥 Download Debian Rootfs
