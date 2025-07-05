@@ -18,7 +18,8 @@ This serves to allow Termux to access Android internal storage.
 ```bash
 termux-setup-storage
 ```
-### 1. Then
+
+
 > you need to install the following packages in Termux.
 
 ```bash
@@ -28,3 +29,4 @@ pkg install termux-x11-nightly
 pkg install pulseaudio
 pkg install proot-distro
 ```
+
