@@ -2,6 +2,13 @@
 
 > Run full Debian XFCE Desktop + GUI apps on Android using Termux + Proot-Distro + Termux-X11.
 
+## ✨ Features
+- XFCE4 Desktop with X11 support
+- Lightweight and responsive
+- Easy to install
+- Compatible with Termux-X11
+
+- 
 ## 🖥️ Preview
 
 ![preview](pic.jpg)
