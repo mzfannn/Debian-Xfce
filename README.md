@@ -11,7 +11,12 @@
 
 [Click here to download Debian.tar.xz](https://example.com/debian.tar.xz)
 
-## 🛠️ Installation
+
+
+
+
+
+## 🛠️ Installation with a rootfs file
 
 > First step
 This serves to allow Termux to access Android internal storage.
@@ -28,5 +33,51 @@ pkg install x11-repo
 pkg install termux-x11-nightly
 pkg install pulseaudio
 pkg install proot-distro
+```
+## ⚠️⚠️⚠️
+
+> If you want to use the Debian Rootfs file, follow this command
+
+> You can enter the directory where you store the debian rootfs file first
+
+```bash
+cd /storage/shared/download/
+```
+
+> to ascertain whether the debian rootfs file already exists
+
+```bash
+ls
+```
+
+> In your directory saving the debian rootfs file
+
+```bash
+proot-distro restore debian.tar.xz
+```
+
+> Wait until it's finished
+
+> then return to home
+
+```bash
+cd
+```
+## Install the script to start a desktop
+
+```bash
+pkg install wget
+wget ........demo
+```
+
+> give a file permission to execute
+
+```bash
+chmod +x debian.sh
+```
+> Then to start the desktop
+
+```bash
+./debian.sh
 ```
 
